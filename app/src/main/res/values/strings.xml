@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">To Do list</string>
+    <string name="tarefas">Tarefas do Dia</string>
+    <string name="todo">TODO</string>
+    <string name="add_task">Adicionar Tarefa</string>
+    <string name="title_task2">Adicionar Tarefas</string>
+    <string name="title_task_hint">Título:</string>
+    <string name="_data">Data:</string>
+    <string name="_horario">Horário:</string>
+    <string name="bt_cancelar_text">Cancelar</string>
+    <string name="bt_salvar_text">Criar tarefa</string>
+    <string name="_description">Descrição:</string>
+    <string name="sem_tarefas">Sem Tarefas</string>
+    <string name="no_descriptins">Sem Descrições</string>
+    <string name="passiar_com_o_cachorro">Passiar com o cachorro</string>
+    <string name="_12_04_2022_16_30">12/04/2022 16:30</string>
+    <string name="button_of_return">Button of return</string>
+    <string name="editar">Editar</string>
+    <string name="deletar">Deletar</string>
+    <string name="label_empty_state">Ops! Você não possui\nnenhuma tarefa.</string>
+</resources>
